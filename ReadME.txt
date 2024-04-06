@@ -13,3 +13,5 @@ Hierachy of the Discord DB
 
 Subject to discord's ratelimits
 A fun little project, dont use in prod (It would be extremely funni and based if you do tho)
+
+Documentation: https://discord-db.readthedocs.io/en/latest/ (TODO)
